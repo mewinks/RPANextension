@@ -8,6 +8,8 @@ How to Manually Install A Chrome Extension
 3. In Chrome, navigate to chrome://extensions/Now 
 4. Turn on developer mode 
 5. Press the Load unpacked button and browse to the folder on your computer where you saved the unzip file. 
+6. Turn off Developer Mode
+7. Click on the extensions icon next to the address bar (puzzle icon) and in the RPAN option click the pin which will pin it to your browser for easy access. 
 
 How to Manually Install A Opera Extension
 1. Download the Code.crx file.
